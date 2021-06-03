@@ -6,7 +6,7 @@ title: Sourav Dutta
 superuser: true
 
 # Role/position/tagline
-role: Doctoral Researcher at TU Kaiserslautern
+role: Doctoral Researcher in Machine Learning
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -14,22 +14,22 @@ organizations:
   url: https://www.uni-kl.de/en/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include graph representations, and machine learning with graphs.
+bio: My research interests include graph representations, probabilistic graphical models, and machine learning with graphs.
 
 # Interests to show in About widget
 interests:
-- Machine Learning with Graphs
 - Graph Representations
 - Probabilistic Graphical Models
+- Machine Learning with Graphs
 
 # Education to show in About widget
 education:
   courses:
   - course: PhD in Machine Learning
-    institution: TU Kaiserslautern
+    institution: Technische Universität Kaiserslautern
     year: 2024 (expected)
   - course: M.Sc. in Language Science & Technology
-    institution: Saarland University
+    institution: Universität des Saarlandes
     year: 2021
 
 # Social/Academic Networking
@@ -67,8 +67,8 @@ email: ""
 highlight_name: true
 ---
 
-Sourav Dutta is a Doctoral Researcher and PhD Candidate at the [Machine Learning](https://ml.cs.uni-kl.de/) research group at TU Kaiserslautern under the supervision of [Prof. Dr. Sophie Burkhardt](https://ml.cs.uni-kl.de/people/sophie-burkhardt.html). His researcher interests include graph representations, probabilistic graphical models, and machine learning with graphs. He is also interested in applications of machine learning in chemical process engineering and natural language processing.
+Sourav Dutta is a Doctoral Researcher and PhD Candidate at the [Machine Learning](https://ml.cs.uni-kl.de/) research group at Technische Universität Kaiserslautern working with [Prof. Dr. Sophie Burkhardt](https://ml.cs.uni-kl.de/people/sophie-burkhardt.html). His research interests include graph representations, probabilistic graphical models, and machine learning with graphs. He is also interested in applications of machine learning in chemical process engineering and natural language processing.
 
-In April 2021, he received a Master’s degree (M.Sc.) in Language Science and Technology from Humboldt-Universität zu Berlin where he worked on low-resource neural machine translation with [Prof. Dr. Josef van Genabith](https://www.dfki.de/en/web/about-us/employee/person/jova02/) and [Dr. Cristina España Bonet](https://www.cs.upc.edu/~cristinae/).
+In April 2021, he received a Master’s degree (M.Sc.) in Language Science and Technology from Universität des Saarlandes where he worked on low-resource neural machine translation with [Prof. Dr. Josef van Genabith](https://www.dfki.de/en/web/about-us/employee/person/jova02/) and [Dr. Cristina España Bonet](https://www.cs.upc.edu/~cristinae/).
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+# {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
